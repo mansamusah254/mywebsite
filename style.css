@@ -58,3 +58,10 @@ background-size: cover;
     border-radius: 10px ;
     overflow: scroll;
 }
+
+div {
+  width: 900px;
+  border: 10px;
+  padding: 0px;
+  margin: 20px;
+}
