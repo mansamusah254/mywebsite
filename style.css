@@ -14,3 +14,8 @@ width: 100;
     float: right;
     display: flex;
 }
+
+.image img {
+    height: 70%;
+    width: 85%;
+}
